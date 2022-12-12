@@ -1,0 +1,16 @@
+#Test Data
+url=https://trello.com/home
+applicationLink=//*[@id=\"BXP-APP\"]/header[1]/div/div[1]/div[2]/a[1]
+
+userEmail=akin@sichersoft.com
+userEmailRecog=user
+userEmailButton=login
+userPassword=!@#HoofddorpJumps123
+userPasswordRecog=password
+userpasswordButton=login-submit
+
+createMenuRecog=//*[@id="header"]/div[2]/div/div[2]/button/p
+createBoardSubMenuRecog=/html/body/div[3]/div/section/div/div/nav/ul/li[1]/button/p
+boardNameRecog=/html/body/div[3]/div/section/div/form/div[1]/label/input
+boardName=knabAssignment 
+createBoardButton=/html/body/div[3]/div/section/div/form/button
